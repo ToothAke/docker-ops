@@ -1,0 +1,12 @@
+git:latest
+github:latest
+ghprb:latest
+github-oauth:latest
+slack:latest
+scm-api:latest
+git-client:latest
+github-api:latest
+ssh-agent:latest
+durable-task:latest
+token-macro:latest
+
