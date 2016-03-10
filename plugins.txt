@@ -1,7 +1,15 @@
+amazon-ecs:latest
+amazon-ecr:latest
+cvs:latest
+docker-plugin:latest
+docker-build-step:latest
+git-parameter:latest
 git:latest
 github:latest
+github-api:latest
 ghprb:latest
 github-oauth:latest
+htmlpublisher:latest
 slack:latest
 scm-api:latest
 git-client:latest
